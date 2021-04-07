@@ -1,3 +1,11 @@
 # Freely-Trip-Orginiser-app
+This application was built in React Native Redux Typescript
 
-S
+Steps to run the project:
+
+npm install
+
+Expo start
+
+
+
