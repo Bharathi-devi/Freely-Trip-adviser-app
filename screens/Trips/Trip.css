@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'SF Display';
+    src: url('../../assets/SFProDisplay-Regular.ttf') format("truetype");
+  }
+
+  TEXT 
+  {
+    font-family: 'SF Display';
+  }
+
+  .nameText
+  {
+      font-size: 20;
+      font-weight: bold;
+  }
+  .dateText
+  {
+      font-size:16;
+      font-style: normal;
+  }
+ .fontds{
+    font-size:16;
+    font-style: normal;
+ }
+ .status{
+     font-size: 16;
+     font-weight: bold;
+ }
